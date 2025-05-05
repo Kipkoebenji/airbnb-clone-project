@@ -133,3 +133,88 @@ Coaches the team on Agile best practices.
 
 Contribution:
 Ensures the development process remains Agile, adaptive, and efficient.
+
+ UI Component Patterns
+ 
+This project uses reusable, modular UI components to maintain design consistency and simplify development. Below are the key components planned:
+
+🔝 Navbar
+Description:
+The navigation bar appears at the top of every page, providing access to the homepage, search, host options, and user profile.
+
+Features:
+
+Logo and branding
+
+Search input with filters
+
+Host and Help links
+
+User menu with login/logout options
+
+Usage:
+Ensures global accessibility to core navigation and user actions.
+
+🏠 Property Card
+Description:
+Displays summarized information for each property listing on the homepage and search results.
+
+Features:
+
+Image thumbnail
+
+Property name and location
+
+Price per night
+
+Rating and number of reviews
+
+Usage:
+Reusable component in property listings, search pages, and recommendations.
+
+📄 Footer
+Description:
+Sits at the bottom of the page and provides links to policies, social media, and support.
+
+Features:
+
+About, Privacy, and Terms links
+
+Language and currency switcher
+
+Social media icons
+
+Usage:
+Enhances site credibility and provides easy access to support resources.
+
+🔍 Search Filters (Optional/Planned)
+Description:
+Component for filtering properties by price, dates, location, type, and amenities.
+
+Features:
+
+Date picker
+
+Dropdowns for guests and price range
+
+Checkbox filters for amenities
+
+Usage:
+Improves the user experience by narrowing search results efficiently.
+
+🧾 Booking Modal (Optional/Planned)
+Description:
+A pop-up/modal for selecting booking dates and reviewing total costs.
+
+Features:
+
+Calendar input
+
+Price breakdown
+
+Confirm button
+
+Usage:
+Provides a focused UI for completing a booking.
+
+
